@@ -21,6 +21,7 @@ public class Ovningsuppgift8Git {
         
         System.out.println(bil1.modell);
         System.out.println(förare1.namn);
+        System.out.println(bil1.modell + " " + förare1.namn);
         
     
     }
